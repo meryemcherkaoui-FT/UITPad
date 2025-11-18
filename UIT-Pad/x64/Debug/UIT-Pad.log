@@ -1,0 +1,22 @@
+﻿   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/6.10.0/msvc2022_64/bin/qmake)
+   Qt: 6.10.0
+  uic UITPad.ui
+  rcc UITPad.qrc
+  moc UITPad.h
+   RCC: Warning: No resources in 'C:\Users\vanja\source\repos\UIT-Pad\UITPad.qrc'.
+   Could not request license for qtframework:
+       Message: No valid license could be acquired.
+       Status code: 100
+   Cannot acquire license to use qtframework.
+   If you have a valid commercial license, please create a bug report to Qt Bugtracker:
+   https://bugreports.qt.io/projects/QLS
+   Attach the above details to the bug report.
+   Additionally, attach the qtlicd_log.txt file of the Qt License Service that can be found from the directory of this Qt installation.
+   On this system the log file path appears to be: "C:\Qt\Tools\LicenseService\qtlicd_log.txt".
+   To bypass the license check entirely, set the environment variable QTFRAMEWORK_BYPASS_LICENSE_CHECK with value 1.
+  UITPad.cpp
+  main.cpp
+  qrc_UITPad.cpp
+  moc_UITPad.cpp
+  UIT-Pad.vcxproj -> C:\Users\vanja\source\repos\UIT-Pad\x64\Debug\UIT-Pad.exe
